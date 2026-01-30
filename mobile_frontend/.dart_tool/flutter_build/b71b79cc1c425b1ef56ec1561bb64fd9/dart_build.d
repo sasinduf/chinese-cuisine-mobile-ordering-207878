@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/chinese-cuisine-mobile-ordering-207878/mobile_frontend/.dart_tool/flutter_build/b71b79cc1c425b1ef56ec1561bb64fd9/dart_build_result.json: 
